@@ -2,7 +2,7 @@
   "name": "Teko-landing-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://localhost",
+  "homepage": "http://localhost/edit",
   "dependencies": {
     "@ant-design/compatible": "^1.0.8",
     "@emotion/core": "10.1.1",

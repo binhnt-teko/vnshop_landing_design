@@ -127,7 +127,9 @@ class EditStateController extends React.Component {
         // 占位符
         if (e.className.indexOf('img-wrapper') >= 0) {
           e.className = 'placeholder';
-          const isZhCN = utils.isZhCN(this.props.location.pathname);
+          //binhnt
+          // const isZhCN = utils.isZhCN(this.props.location.pathname);
+          const isZhCN = false;
           e.innerHTML = isZhCN ? '放在此处' : 'Placed here';
         }
       })

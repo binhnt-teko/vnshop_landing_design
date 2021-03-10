@@ -104,7 +104,10 @@ export function getNewHref(port, hash, remHash, $path = '', setLocal = true) {
   child = isLocalMode || !child ? '' : `/${child}`;
   let path = '';
   if (setLocal) {
-    path = getLocalizedPathname($path, isZhCN(location.pathname));
+    //binhnt
+    // const isZhCN = isZhCN(location.pathname) 
+    const isZhCN = false;
+    path = getLocalizedPathname($path, isZhCN);
   }
   const href = `${protocol}//${winLocation.hostname}${isLocalMode ? `:${port}` : ''}${child}${path}${newHash}`;
   return href;

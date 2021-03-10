@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bidv-landing/main.css",
-    "main.js": "/bidv-landing/static/js/main.e3d94aa4.js",
-    "index.html": "/bidv-landing/index.html",
-    "precache-manifest.f25be721fe5e56818241463285387857.js": "/bidv-landing/precache-manifest.f25be721fe5e56818241463285387857.js",
-    "service-worker.js": "/bidv-landing/service-worker.js"
+    "main.css": "/edit/main.css",
+    "main.js": "/edit/static/js/main.a3f266c2.js",
+    "index.html": "/edit/index.html",
+    "precache-manifest.b4014c45df0b2494a19d141a6dd7ee17.js": "/edit/precache-manifest.b4014c45df0b2494a19d141a6dd7ee17.js",
+    "service-worker.js": "/edit/service-worker.js"
   },
   "entrypoints": [
-    "static/css/main.477999e7.css",
+    "static/css/main.8c5c9807.css",
     "main.css",
-    "static/js/main.e3d94aa4.js"
+    "static/js/main.a3f266c2.js"
   ]
 }
