@@ -1,0 +1,4 @@
+import tempData from '../templates/template/element/template.config';
+
+// console.log(JSON.stringify(tempData))
+export default tempData

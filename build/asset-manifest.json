@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bidv-landing/main.css",
+    "main.js": "/bidv-landing/static/js/main.e3d94aa4.js",
+    "index.html": "/bidv-landing/index.html",
+    "precache-manifest.f25be721fe5e56818241463285387857.js": "/bidv-landing/precache-manifest.f25be721fe5e56818241463285387857.js",
+    "service-worker.js": "/bidv-landing/service-worker.js"
+  },
+  "entrypoints": [
+    "static/css/main.477999e7.css",
+    "main.css",
+    "static/js/main.e3d94aa4.js"
+  ]
+}
